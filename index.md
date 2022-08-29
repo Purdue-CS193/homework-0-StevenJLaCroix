@@ -1,5 +1,5 @@
-### Steven LaCroix's first cs193 homework
-# Favorite Things:
+# Steven LaCroix's first cs193 homework
+### Favorite Things:
 - the class seems to be pretty easy
 - it sounds like it'll contain useful information
 - the chairs in the lecture hall are a lot more comfy compared to other lecutre halls

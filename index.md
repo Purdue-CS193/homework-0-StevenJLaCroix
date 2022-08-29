@@ -1,3 +1,9 @@
+### Steven LaCroix's first cs193 homework
+# Favorite Things:
+- the class seems to be pretty easy
+- it sounds like it'll contain useful information
+- the chairs in the lecture hall are a lot more comfy compared to other lecutre halls
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

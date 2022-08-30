@@ -1,8 +1,7 @@
 # Steven LaCroix's first cs193 homework
 ### Favorite Things:
-- the class seems to be pretty easy
-- it sounds like it'll contain useful information
-- the chairs in the lecture hall are a lot more comfy compared to other lecutre halls
+- the chairs in the lecture hall are the most comfortable of all of my classes
+- the class seems pretty easy but also useful
 
 ## Welcome to GitHub Pages
 
